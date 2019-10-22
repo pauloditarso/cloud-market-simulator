@@ -1,3 +1,3 @@
 mv bin/simulator .
-rm -rf old src
+rm -rf bin old src
 rm -rf .git README.md ungit.sh
